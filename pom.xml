@@ -678,7 +678,7 @@
                         </dependency>
                         <dependency>
                             <groupId>com.iqkv.checkstyle</groupId>
-                            <artifactId>iqkv-checkstyle-config</artifactId>
+                            <artifactId>checkstyle-config</artifactId>
                             <version>${iqkv.platform.version}</version>
                         </dependency>
                     </dependencies>
