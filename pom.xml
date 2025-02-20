@@ -684,7 +684,7 @@
                     </dependencies>
                     <configuration>
                         <sourceDirectories>${basedir}/src</sourceDirectories>
-                        <configLocation>iqkv-common-checkstyle.xml</configLocation>
+                        <configLocation>maven-project-common-checkstyle.xml</configLocation>
                         <includeTestSourceDirectory>true</includeTestSourceDirectory>
                     </configuration>
                     <executions>
